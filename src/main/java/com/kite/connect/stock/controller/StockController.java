@@ -1,4 +1,4 @@
-package com.kite.connect.stock.controllers;
+package com.kite.connect.stock.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
